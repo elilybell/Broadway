@@ -4,6 +4,21 @@ body{
 }
 
 
+a{
+  font-size:18px;
+  text-transform:underline;
+  color:white;
+  padding:auto;
+
+}
+
+p{
+  font-size:14px;
+}
+
+h3{
+  font-size:23px;
+}
 
 #Header{
   background-image:url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
@@ -12,11 +27,7 @@ body{
 
 }
 
-a{
-  font-size:18px;
-  text-transform:underline;
+#NY{
+  background-image:url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   color:white;
-  padding:auto;
-
-
 }
