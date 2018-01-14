@@ -12,6 +12,11 @@ body{
 
 }
 
-#Navigation{
+a{
   font-size:18px;
+  text-transform:underline;
+  color:white;
+  padding:auto;
+
+
 }
